@@ -1,0 +1,22 @@
+﻿:::: Scope of Work Document
+
+
+Scope of Work (SOW) -
+Build an application or add a unique twist on a common application. The application can be a game, a business support program, or robot to give a few examples. Projects should focus on creating C++ or Swift applications that utilize long-term data storage.
+Please submit your Scope of Work Document detailing the application you plan to complete.   You last assignment will implement your plan
+Student Project – Scope of Work (SOW)
+Project Title: Our Story Trivia
+Student Name: Zaki El-Mueed
+Date: 7/15/2026
+________________
+
+
+1. Project Overview
+(Write 2–3 sentences about what your project will do.)
+Our Story Trivia is a C++ quiz game based on my relationship. It asks questions about how we met, our first date, and other memories only we would know. Every time you get a question right, it shows a short memory or message. The game also saves the scores to a file so we can keep track of them and play again on future anniversaries.
+2. Features
+* Store trivia questions and answers using a struct (question, correct answer, memory/message to unlock)
+* Ask the user each question and check if their answer matches
+* Keep score as correct answers are given (simple counter)
+* Display the unlocked memory/message immediately when a question is answered correctly
+* Save the final score to a text file at the end of the game Print a final summary at the end example: ("You got 4/5! Here's to another year together ❤️")
