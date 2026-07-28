@@ -1,0 +1,184 @@
+﻿======================================
+         OUR STORY TRIVIA 
+======================================
+Welcome! Test your memory of our story.
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 1
+----------------------------------------------------
+Choose a category to play:
+  1. First Date
+  2. Inside Jokes
+  3. Milestones
+  4. All categories
+Your choice: 1
+----------------------------------------------------
+Starting round: First Date (2 questions)
+----------------------------------------------------
+
+
+Q1 [First Date]: What movie did we watch on our first date?
+Your answer: how to train your dragon
+Correct! 🎉
+  Memory unlocked: "I picked this movie because I really did NOT want to see Lilo & Stitch"
+
+
+Q2 [First Date]: Where did we go on our first date?
+Your answer: drive in movie
+Correct! 🎉
+  Memory unlocked: "I remember not looking at you for like the whole date :)"
+----------------------------------------------------
+Round complete! You got 2/2 -- Here's to another year together! ❤️
+----------------------------------------------------
+Score saved to history!
+----------------------------------------------------
+
+
+
+
+
+
+
+
+======================================
+         OUR STORY TRIVIA 
+======================================
+Welcome! Test your memory of our story.
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 2
+----------------------------------------------------
+Manage Questions
+1. View all questions
+2. Add a question
+3. Update a question
+4. Delete a question
+5. Back to main menu
+Choose an option: 1
+----------------------------------------------------
+All Saved Questions:
+  [1] (First Date) Where did we go on our first date?  ->  Answer: Drive in movie
+  [2] (First Date) What movie did we watch on our first date?  ->  Answer: How to Train Your Dragon
+  [3] (Inside Jokes) What was our first inside joke?  ->  Answer: spread em
+  [4] (Milestones) When did we start dating?  ->  Answer: 7/21/2025
+----------------------------------------------------
+----------------------------------------------------
+Manage Questions
+1. View all questions
+2. Add a question
+3. Update a question
+4. Delete a question
+5. Back to main menu
+Choose an option: 4
+----------------------------------------------------
+All Saved Questions:
+  [1] (First Date) Where did we go on our first date?  ->  Answer: Drive in movie
+  [2] (First Date) What movie did we watch on our first date?  ->  Answer: How to Train Your Dragon
+  [3] (Inside Jokes) What was our first inside joke?  ->  Answer: spread em
+  [4] (Milestones) When did we start dating?  ->  Answer: 7/21/2025
+----------------------------------------------------
+Enter the ID of the question to delete: 4
+Are you sure? (1 = Yes, 2 = Cancel): 1
+Question deleted.
+----------------------------------------------------
+Manage Questions
+1. View all questions
+2. Add a question
+3. Update a question
+4. Delete a question
+5. Back to main menu
+Choose an option: 2
+
+
+-- Add a New Question --
+Category (e.g. First Date, Milestones): first date
+Question: Did I try to leave early?
+Correct answer: yes
+Memory/message to unlock when correct: But then you stopped me
+Question added and saved!
+----------------------------------------------------
+Manage Questions
+1. View all questions
+2. Add a question
+3. Update a question
+4. Delete a question
+5. Back to main menu
+Choose an option: 5
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 4
+Thanks for playing!! I love you Bebe! ❤️
+
+
+
+
+
+
+
+
+
+
+======================================
+         OUR STORY TRIVIA 
+======================================
+Welcome! Test your memory of our story.
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 1
+----------------------------------------------------
+Choose a category to play:
+  1. First Date
+  2. Inside Jokes
+  3. Milestones
+  4. All categories
+Your choice: 2
+----------------------------------------------------
+Starting round: Inside Jokes (1 question)
+----------------------------------------------------
+
+
+Q1 [Inside Jokes]: What was our first inside joke?
+Your answer: spread em
+Correct! 🎉
+  Memory unlocked: "I still think it was you that said it first"
+----------------------------------------------------
+Round complete! You got 1/1 -- Here's to another year together! ❤️
+----------------------------------------------------
+Score saved to history!
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 3
+----------------------------------------------------
+Score History:
+  2026-07-28 | Inside Jokes | Score: 1/1
+----------------------------------------------------
+  Rounds played: 1 | Lifetime score: 1/1
+----------------------------------------------------
+----------------------------------------------------
+Main Menu
+1. Play Trivia
+2. Manage Questions (Add/View/Update/Delete)
+3. View Score History
+4. Exit
+Choose an option: 4
+Thanks for playing!! I love you Bebe! ❤️
